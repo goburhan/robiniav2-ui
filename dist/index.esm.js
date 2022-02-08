@@ -2045,6 +2045,15 @@ var Icon$14 = function (props) {
         React.createElement("g", null,
             React.createElement("path", { d: "M59.655,180.863c-0.926,1.604-2.606,2.5-4.334,2.5c-0.849,0-1.708-0.217-2.496-0.671\n\tC22.606,165.237,3.833,132.739,3.834,97.879c0-20.076,6.034-39.288,17.232-55.5l-6.344-6.267c-1.372-1.355-1.842-3.379-1.208-5.2\n\tc0.634-1.822,2.26-3.116,4.177-3.326l21.274-2.333c1.499-0.168,2.988,0.354,4.059,1.413c1.071,1.058,1.608,2.543,1.462,4.041\n\tl-2.074,21.301c-0.187,1.92-1.461,3.561-3.275,4.217c-0.555,0.201-1.13,0.299-1.7,0.299c-1.294,0-2.563-0.502-3.515-1.443\n\tl-5.612-5.544c-9.411,14.238-14.476,30.926-14.476,48.343c0,31.3,16.856,60.48,43.993,76.153\n\tC60.218,175.414,61.037,178.472,59.655,180.863z M194.591,92.675c-2.761,0-5,2.238-5,5l0,0.204\n\tc0,48.457-39.422,87.879-87.879,87.879c-1.773,0-3.543-0.056-5.308-0.161l1.911-7.653c0.467-1.871-0.184-3.845-1.672-5.07\n\tc-1.49-1.228-3.551-1.486-5.297-0.67l-19.385,9.068c-1.364,0.639-2.368,1.857-2.732,3.318s-0.052,3.008,0.852,4.212l12.848,17.117\n\tc0.956,1.273,2.445,1.999,3.999,1.999c0.329,0,0.662-0.032,0.992-0.1c1.891-0.382,3.393-1.817,3.86-3.689l2.169-8.688\n\tc2.579,0.203,5.169,0.317,7.766,0.317c53.971,0,97.879-43.908,97.879-97.915l0-0.168C199.591,94.913,197.352,92.675,194.591,92.675z\n\t M202.255,51.683c-1.491-1.223-3.552-1.48-5.299-0.658l-7.485,3.52C173.208,21.73,139.285,0,101.712,0\n\tC84.453,0.001,67.485,4.556,52.64,13.173c-2.388,1.387-3.2,4.446-1.814,6.834c1.386,2.388,4.444,3.203,6.834,1.814\n\tC70.982,14.089,86.215,10.001,101.713,10c33.671,0,64.077,19.434,78.71,48.8l-7.89,3.711c-1.746,0.82-2.863,2.572-2.872,4.501\n\tc-0.009,1.929,1.092,3.691,2.83,4.528l19.281,9.288c0.686,0.33,1.428,0.495,2.17,0.495c0.727,0,1.454-0.158,2.128-0.476\n\tc1.363-0.641,2.364-1.861,2.726-3.323l5.142-20.774C204.401,54.878,203.746,52.906,202.255,51.683z M70.811,138.821\n\tc-2.761,0-5-2.238-5-5s2.239-5,5-5h25.902v-26.94h-7.435c-12.939,0-23.467-10.527-23.467-23.467\n\tc0-12.946,10.527-23.474,23.467-23.474h7.435v-5.746c0-2.762,2.239-5,5-5s5,2.238,5,5v5.746h25.902c2.761,0,5,2.238,5,5\n\ts-2.239,5-5,5h-25.902v26.94h7.431c12.942,0,23.471,10.529,23.471,23.471s-10.529,23.47-23.471,23.47h-7.431v7.741\n\tc0,2.762-2.239,5-5,5s-5-2.238-5-5v-7.741H70.811z M89.278,91.881h7.435V64.94h-7.435c-7.426,0-13.467,6.041-13.467,13.467\n\tC75.811,85.84,81.852,91.881,89.278,91.881z M106.713,128.821h7.431c7.428,0,13.471-6.043,13.471-13.47\n\tc0-7.428-6.043-13.471-13.471-13.471h-7.431V128.821z" }))));
 };
+var Icon$66 = function (props) {
+    return (React.createElement(Svg, __assign({ viewBox: "0 0 210 330",width:"210",height:"330" }, props),
+    React.createElement("clipPath", { id: "cp1j33phza" },
+    React.createElement("path", { d: "M0 0h210v330H0z" ,fill:"#fff", stroke:"#707070" })),   
+    React.createElement("g", null , clipPath = "url(#cp1j33phza)", transform="translate(0 -749)",  
+    React.createElement("g", null,fill="#03091e",
+        React.createElement("path", { d: "M1980.169 398.5H.5V.812C5.448 3.3 35.354 18.182 83.748 39.25c31.047 13.517 63.517 26.897 96.509 39.77a2888.321 2888.321 0 0 0 125.352 45.588c106.755 36.043 212.644 64.762 314.727 85.359 29.509 5.954 59.088 11.298 87.916 15.884 30.346 4.827 60.695 8.948 90.204 12.247 30.95 3.46 61.832 6.111 91.789 7.882 31.319 1.85 62.497 2.788 92.669 2.788 30.17 0 61.405-.938 92.835-2.788 30.063-1.77 61.103-4.423 92.26-7.882 29.705-3.3 60.3-7.42 90.935-12.247 29.102-4.586 59-9.93 88.865-15.884 103.314-20.597 210.919-49.315 319.827-85.358a3058.39 3058.39 0 0 0 128.077-45.588c33.76-12.873 67.03-26.253 98.885-39.769 49.741-21.105 80.558-36.004 85.57-38.45V398.5z" ,style:"stroke:none", transform:"translate(-60.668 851)" }),
+            React.createElement("path", { d: "M1979.669 1.601c-6.778 3.292-37.103 17.841-84.876 38.111-31.86 13.519-65.136 26.901-98.902 39.776a3057.84 3057.84 0 0 1-128.098 45.595c-108.928 36.05-216.553 64.774-319.886 85.374-29.871 5.955-59.777 11.3-88.886 15.888-30.641 4.828-61.244 8.95-90.958 12.25-31.164 3.46-62.213 6.113-92.284 7.884-31.44 1.85-62.684 2.79-92.865 2.79-30.182 0-61.37-.94-92.699-2.79-29.966-1.771-60.856-4.424-91.814-7.885-29.517-3.3-59.874-7.42-90.227-12.25-28.835-4.586-58.421-9.932-87.937-15.887-102.103-20.601-208.013-49.325-314.788-85.375a2888.674 2888.674 0 0 1-125.374-45.597C147.077 66.611 114.6 53.228 83.548 39.71 37.108 19.49 7.684 4.965 1 1.622V398h1978.669V1.601M0 0s487.747 248.268 982.914 248.268S1980.669 0 1980.669 0v399H0V0z" ,fill:"#707070" , stroke:"none", transform:"translate(-60.668 851)" })))));
+};
 
 var Icon$15 = function (props) {
     return (React.createElement(Svg, __assign({ viewBox: "0 0 56 56" }, props),
@@ -2319,7 +2328,7 @@ var PanelBody = function (_a) {
     var location = useLocation();
     // Close the menu when a user clicks a link on mobile
     var handleClick = isMobile ? function () { return pushNav(false); } : undefined;
-    return (React.createElement(Container$3 , {style: { background:"rgba(255, 255, 255, 1)" , borderRadius:"24px" }}, null, links.map(function (entry) {
+    return (React.createElement(Container$3 ,  null, links.map(function (entry) {
         var Icon = Icons[entry.icon];
         var iconElement = React.createElement(Icon, { width: "24px", mr: "8px" });
         var calloutClass = entry.calloutClass ? entry.calloutClass : undefined;
@@ -2390,17 +2399,19 @@ var PanelFooter = function (_a) {
                     React.createElement(Icon$16, { style: {  alignItems: "center", marginLeft: 36 } }),
                     React.createElement("span", { style: { fontSize: 17, color: "#085c31" } }, "Rbs Price")),
                     React.createElement("div", { style: {background:"rgba(255, 255, 255, 0.35)",borderRadius:"20px",  padding: 4} },
-                React.createElement(Text, {fontSize: 17, color: "white", bold: true , marginLeft: 64 }, "$" + cakePriceUsd.toFixed(3))))) : (React.createElement(Skeleton, { width: 80, height: 24 })))));
+                React.createElement(Text, {fontSize: 17, color: "#085c31", bold: true , marginLeft: 64 }, "$" + cakePriceUsd.toFixed(3))))) : (React.createElement(Skeleton, { width: 80, height: 24 })))));
 };
 var templateObject_1$C, templateObject_2$c, templateObject_3$7, templateObject_4$2;
 
-var StyledPanel = styled.div(templateObject_1$D || (templateObject_1$D = __makeTemplateObject(["\n  position: fixed;\n  padding-top: ", ";\n  top: 0;\n  left: 0;\n  display: flex;\n  flex-direction: column;\n  justify-content: space-between;\n  flex-shrink: 0;\n  // background-color:#ffff ", ";\n  width: ", ";\n  height: 100vh;\n  transition: padding-top 0.2s, width 0.2s;\n  border-right: ", ";\n  z-index: 11;\n  overflow: ", ";\n  transform: translate3d(0, 0, 0);\n\n  ", " {\n    border-right: medium none;\n    width: ", ";\n  }\n"], ["\n  position: fixed;\n  padding-top: ", ";\n  top: 0;\n  left: 0;\n  display: flex;\n  flex-direction: column;\n  justify-content: space-between;\n  flex-shrink: 0;\n  // background-color:#ffff ", ";\n  width: ", ";\n  height: 100vh;\n  transition: padding-top 0.2s, width 0.2s;\n  border-right: ", ";\n  z-index: 11;\n  overflow: ", ";\n  transform: translate3d(0, 0, 0);\n\n  ", " {\n    border-right: medium none;\n    width: ", ";\n  }\n"])), function (_a) {
+var StyledPanel = styled.div(templateObject_1$D || (templateObject_1$D = __makeTemplateObject(["\n background-image:linear-gradient(208.79999999999995deg, rgb(255,255,255) 76.5%,#03091e 100%); position: fixed; background-color: ; \n  padding-top:  \n  ", ";\n  top: 0;\n  left: 0;\n  display: flex;\n  flex-direction: column;\n  justify-content: space-between;\n  flex-shrink: 0;\n  // ", ";\n  width: ", ";\n  height: 100vh;\n  transition: padding-top 0.2s, width 0.2s;\n  border-right: ", ";\n  z-index: 11;\n  overflow: ", ";\n  transform: translate3d(0, 0, 0);\n\n  ", " {\n    border-right: medium none;\n    width: ", ";\n  }\n"], ["\n  position: fixed;\n  padding-top: ", ";\n  top: 0;\n  left: 0;\n  display: flex;\n  flex-direction: column;\n  justify-content: space-between;\n  flex-shrink: 0;\n  //  ", ";\n  width: ", ";\n  height: 100vh;\n  transition: padding-top 0.2s, width 0.2s;\n  border-right: ", ";\n  z-index: 11;\n  overflow: ", ";\n   background-color:#fffff;\n\n  ", " {\n    border-right: medium none;\n    width: ", ";\n  }\n"])), function (_a) {
     var showMenu = _a.showMenu;
     return (showMenu ? "80px" : 0);
-}, function (_a) {
+}, 
+function (_a) {
     var theme = _a.theme;
     return theme.nav.background;
-}, function (_a) {
+},
+function (_a) {
     var isPushed = _a.isPushed;
     return (isPushed ? SIDEBAR_WIDTH_FULL + "px" : 0);
 }, function (_a) {
@@ -2827,7 +2838,7 @@ var baseColors = {
 var brandColors = {
     binance: "#F0B90B",
 };
-var lightColors = __assign(__assign(__assign({}, baseColors), brandColors), { background: "linear-gradient(90deg, rgba(213,227,228,0.8) 1%, rgba(232,235,236,1) 100%)", backgroundDisabled: "#E9EAEB", contrast: "#191326", invertedContrast: "#FFFFFF", border:"solid 1px", borderColor:"black",input: "transparent", tertiary: "#EFF4F5", text: "#046A38", textDisabled: "#BDC2C4", textSubtle: "#135c37", borderColor: "#E9EAEB", card: "#E7EAF2", gradients: {
+var lightColors = __assign(__assign(__assign({}, baseColors), brandColors), { background: "linear-gradient(90deg, rgba(213,227,228,0.8) 1%, rgba(232,235,236,1) 100%)", backgroundDisabled: "#E9EAEB", contrast: "#191326", invertedContrast: "#FFFFFF", border:"solid 1px", borderColor:"black",input: "transparent", tertiary: "#EFF4F5", text: "#046A38", textDisabled: "#a6c6c5", textSubtle: "#135c37", borderColor: "#E9EAEB", card: "#E7EAF2", gradients: {
         bubblegum: "transparent",
     } });
 var darkColors = __assign(__assign(__assign({}, baseColors), brandColors), { secondary: "#9A6AFF", background: "#343135", backgroundDisabled: "#3c3742", contrast: "#FFFFFF", invertedContrast: "#191326", input: "#483f5a", primaryDark: "#0098A1", tertiary: "#353547", text: "#EAE2FC", textDisabled: "#666171", textSubtle: "#c9c4d4", borderColor: "#524B63", card: "#27262c", gradients: {
@@ -2865,14 +2876,14 @@ var light$1 = (_a$2 = {},
         color: lightColors.primary,
     },
     _a$2[TERTIARY] = {
-        background: "rgba(255,255,255,0.25)",
+        background: "transparent",
         backgroundActive: "transparent",
         backgroundHover: "transparent",
-        border: "2px solid " + "#ffffff",
+        border: "2px solid " + "#aeaeae",
         borderColorHover: lightColors.primaryBright,
         boxShadow: "none",
         boxShadowActive: "none",
-        color: "#ffffff",
+        color: "#ffff",
     },
     _a$2[TEXT] = {
         background: "transparent",
