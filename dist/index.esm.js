@@ -2382,7 +2382,7 @@ var PanelFooter = function (_a) {
                 } },
                 React.createElement("div", { style: { display: "flex", alignItems: "center",marginBottom:"5px" } },
                     React.createElement(Icon$16, { style: {  alignItems: "center", marginLeft: 36 } }),
-                    React.createElement("span", { style: { fontSize: 17, color: "#085c31" } }, "Rbs Price")),
+                    React.createElement("span", { style: { fontSize: 17, color: "#085c31" } }, "RV2 Price")),
                     React.createElement("div", { style: {background:"rgba(255, 255, 255, 0.35)",borderRadius:"20px",  padding: 4} },
                 React.createElement(Text, {fontSize: 17, color: "#085c31", bold: true , marginLeft: 64 }, "$" + cakePriceUsd.toFixed(3))))) : (React.createElement(Skeleton, { width: 80, height: 24 })))));
 };
